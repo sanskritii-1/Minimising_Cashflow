@@ -1,4 +1,3 @@
-# Minimising Cashflow
 ## Introduction
 The project simplifies the cashflow occuring in a complex system of transactions. It aims to solve the complexity of splitting bills and expenses among friends, family and groups. It allows you to manage your expenses in a group, minimises the number of transactions required to remove your debts, and provides a way to clear the maximum debt with your existing balance.
 
@@ -10,9 +9,6 @@ Before minimising the cashflow
 After minimising the cashflow
 
 ![after minimising](image-1.png)
-
-
-
 
 
 ## Features
@@ -27,8 +23,6 @@ It has 2 parts:
 1. Minimising cashflow
 2. Clear maximum debts with the given balance  
 (optional: can set priority on which debts to clear first)
-
-
 
 
 ## Datastructures and Algorithms Used
