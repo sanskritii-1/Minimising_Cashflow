@@ -8,8 +8,9 @@ Before minimising the cashflow
 
 After minimising the cashflow
 
-![after minimising](image-1.png)
+![after minimising](image-1.png) 
 
+Source: geeksforgeeks
 
 ## Features
 It has 2 parts:
